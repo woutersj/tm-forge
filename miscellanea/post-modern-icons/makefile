@@ -1,6 +1,6 @@
 
 
-INKSCAPE= /Applications/Inkscape.app/Contents/MacOS/inkscape --batch-process
+INKSCAPE= inkscape --batch-process
 
 
 icons24= \

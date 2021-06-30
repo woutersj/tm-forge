@@ -14,7 +14,7 @@
    version="1.1"
    id="svg8699"
    sodipodi:docname="tm_build.svg"
-   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    inkscape:export-filename="/Users/mgubi/t/devel/qt6/TeXmacs/misc/pixmaps/modern/24x24/main/tm_build_x2.png"
    inkscape:export-xdpi="192"
    inkscape:export-ydpi="192">
@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -48,8 +48,8 @@
      inkscape:zoom="16"
      inkscape:cx="7.3440625"
      inkscape:cy="9.125"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg8699"
      inkscape:document-rotation="0" />
@@ -60,14 +60,15 @@
      stroke-linecap="round"
      stroke-linejoin="round"
      id="path8697"
-     sodipodi:nodetypes="csssccsssc" />
+     sodipodi:nodetypes="csssccsssc"
+     style="stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none" />
   <path
-     style="fill:none;stroke:#4a5568;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#0000c0;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 4.125,21.3125 6.625,-7.25"
      id="path11803"
      sodipodi:nodetypes="cc" />
   <path
-     style="fill:none;stroke:#4a5568;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#0000c0;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 8.1875,11 14.375,16.875 15,16.1875 C 14.284881,15.003823 14.530781,13.016308 15.3125,11.5 L 11.25,7.6875 Z"
      id="path11807"
      sodipodi:nodetypes="cccccc" />

@@ -17,7 +17,7 @@
    inkscape:export-filename="/Users/mgubi/t/devel/qt6/TeXmacs/misc/pixmaps/modern/24x24/main/tm_cut_x4.png"
    inkscape:export-xdpi="384"
    inkscape:export-ydpi="384"
-   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata4635">
     <rdf:RDF>
@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,22 +41,34 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="776"
-     inkscape:window-height="480"
+     inkscape:window-width="1526"
+     inkscape:window-height="1202"
      id="namedview4631"
      showgrid="false"
-     inkscape:zoom="27.875"
-     inkscape:cx="12"
-     inkscape:cy="12"
-     inkscape:window-x="0"
+     inkscape:zoom="9.8553008"
+     inkscape:cx="-7.1310282"
+     inkscape:cy="31.67778"
+     inkscape:window-x="26"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg4629" />
+     inkscape:current-layer="svg4629"
+     inkscape:document-rotation="0" />
   <path
-     d="M14.1213 14.1213L19 19M12 12L19 5M12 12L9.12132 14.8787M12 12L9.12132 9.12132M9.12132 14.8787C8.57843 14.3358 7.82843 14 7 14C5.34315 14 4 15.3431 4 17C4 18.6569 5.34315 20 7 20C8.65685 20 10 18.6569 10 17C10 16.1716 9.66421 15.4216 9.12132 14.8787ZM9.12132 9.12132C9.66421 8.57843 10 7.82843 10 7C10 5.34315 8.65685 4 7 4C5.34315 4 4 5.34315 4 7C4 8.65685 5.34315 10 7 10C7.82843 10 8.57843 9.66421 9.12132 9.12132Z"
+     d="M 14.1213,14.1213 19,19.000001 M 12,12 19,5.000001 M 12,12 9.121321,14.8787 M 12,12 9.121321,9.12132"
      stroke="#374151"
      stroke-width="2"
      stroke-linecap="round"
      stroke-linejoin="round"
-     id="path4627" />
+     id="path4627-2"
+     style="stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+     sodipodi:nodetypes="cccccccc" />
+  <path
+     d="M 9.12132,14.8787 C 8.57843,14.3358 7.82843,14 6.999999,14 c -1.656849,0 -3,1.3431 -3,3 0,1.6569 1.34315,3 3,3 1.65685,0 3,-1.3431 3,-3 0,-0.8284 -0.33579,-1.5784 -0.878679,-2.1213 z m 0,-5.75738 C 9.66421,8.57843 9.999999,7.82843 9.999999,7 c 0,-1.65685 -1.34315,-3 -3,-3 -1.656849,0 -3,1.34315 -3,3 0,1.65685 1.34315,3 3,3 0.82843,0 1.57843,-0.33579 2.121321,-0.87868 z"
+     stroke="#374151"
+     stroke-width="2"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path4627-8"
+     style="stroke:#0000c0;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     sodipodi:nodetypes="ssssssssssss" />
 </svg>

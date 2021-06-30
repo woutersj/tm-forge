@@ -14,7 +14,7 @@
    version="1.1"
    id="svg8699"
    sodipodi:docname="tm_replace.svg"
-   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    inkscape:export-filename="/Users/mgubi/t/devel/qt6/TeXmacs/misc/pixmaps/modern/24x24/main/tm_replace_x4.png"
    inkscape:export-xdpi="384"
    inkscape:export-ydpi="384">
@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,19 +41,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1440"
-     inkscape:window-height="855"
+     inkscape:window-width="1600"
+     inkscape:window-height="836"
      id="namedview8701"
      showgrid="false"
      inkscape:zoom="16"
      inkscape:cx="12"
-     inkscape:cy="12"
+     inkscape:cy="19.5"
      inkscape:window-x="0"
-     inkscape:window-y="23"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg8699" />
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8699"
+     inkscape:document-rotation="0" />
   <rect
-     style="fill:none;fill-rule:evenodd;stroke:#4a5568;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;fill-rule:evenodd;stroke:#4a5568;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect9274"
      width="5.9500747"
      height="5.7236428"
@@ -61,17 +62,17 @@
      y="2.7124619"
      ry="1.5485178" />
   <path
-     style="fill:none;stroke:#4a5568;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#0000c0;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 17.951358,15.650667 -4.381499,-0.981608 1.019604,-4.288663"
      id="path9391"
      sodipodi:nodetypes="ccc" />
   <path
-     style="fill:none;stroke:#4a5568;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#0000c0;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 13.569859,14.669059 C 18.762975,12.495065 21.350681,6.027599 13.4375,5.625"
      id="path9393"
      sodipodi:nodetypes="cc" />
   <rect
-     style="fill:none;fill-rule:evenodd;stroke:#4a5568;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;fill-rule:evenodd;stroke:#4a5568;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect9274-8"
      width="5.9500747"
      height="5.7236428"

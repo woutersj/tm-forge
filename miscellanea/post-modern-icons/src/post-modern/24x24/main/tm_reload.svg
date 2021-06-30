@@ -13,11 +13,11 @@
    fill="none"
    version="1.1"
    id="svg3197"
-   sodipodi:docname="tm_reload.svg"
+   sodipodi:docname="tm_reload_orig.svg"
    inkscape:export-filename="/Users/mgubi/t/devel/qt6/TeXmacs/misc/pixmaps/modern/24x24/main/tm_reload_x4.png"
    inkscape:export-xdpi="512"
    inkscape:export-ydpi="512"
-   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata3203">
     <rdf:RDF>
@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,22 +41,33 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="776"
-     inkscape:window-height="480"
+     inkscape:window-width="1600"
+     inkscape:window-height="836"
      id="namedview3199"
      showgrid="false"
-     inkscape:zoom="27.875"
-     inkscape:cx="12"
-     inkscape:cy="12"
+     inkscape:zoom="6.96875"
+     inkscape:cx="-7.1007009"
+     inkscape:cy="16.688007"
      inkscape:window-x="0"
-     inkscape:window-y="23"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg3197" />
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3197"
+     inkscape:document-rotation="0" />
   <path
-     d="M4 4V9H4.58152M19.9381 11C19.446 7.05369 16.0796 4 12 4C8.64262 4 5.76829 6.06817 4.58152 9M4.58152 9H9M20 20V15H19.4185M19.4185 15C18.2317 17.9318 15.3574 20 12 20C7.92038 20 4.55399 16.9463 4.06189 13M19.4185 15H15"
-     stroke="#4A5568"
+     d="M 6.706854,6.7068541 V 10.01507 h 0.384758 m 10.160576,1.323286 c -0.325594,-2.6110488 -2.55295,-4.6315019 -5.25219,-4.6315019 -2.221386,0 -4.123167,1.3683904 -4.908386,3.3082159 m 0,0 h 2.923458 m 7.278076,7.278076 v -3.308217 h -0.384747 m 0,0 c -0.785238,1.939804 -2.686999,3.308217 -4.908401,3.308217 -2.699252,0 -4.926599,-2.02046 -5.252194,-4.631503 m 10.160595,1.323286 h -2.92347"
+     stroke="#4a5568"
      stroke-width="2"
      stroke-linecap="round"
      stroke-linejoin="round"
-     id="path3195" />
+     id="path3195"
+     style="stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke:#0000c0;stroke-opacity:1" />
+  <path
+     d="m 21.31097,12.000001 c 0,5.142344 -4.168624,9.310969 -9.31097,9.310969 -5.1423037,0 -9.3109697,-4.168625 -9.3109697,-9.310969 0,-5.1423048 4.168666,-9.3109706 9.3109697,-9.3109706 5.142346,0 9.31097,4.1686658 9.31097,9.3109706 z"
+     stroke="#4a5568"
+     stroke-width="2"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path10627-0"
+     style="stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+     sodipodi:nodetypes="sssss" />
 </svg>

@@ -17,7 +17,7 @@
    inkscape:export-filename="/Users/mgubi/t/devel/qt6/TeXmacs/misc/pixmaps/modern/24x24/main/tm_save_x4.png"
    inkscape:export-xdpi="384"
    inkscape:export-ydpi="384"
-   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata1422">
     <rdf:RDF>
@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,22 +41,34 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1255"
-     inkscape:window-height="755"
+     inkscape:window-width="1600"
+     inkscape:window-height="836"
      id="namedview1418"
      showgrid="false"
-     inkscape:zoom="27.875"
-     inkscape:cx="12"
-     inkscape:cy="12"
-     inkscape:window-x="103"
-     inkscape:window-y="82"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg1416" />
+     inkscape:zoom="19.710602"
+     inkscape:cx="-1.0776993"
+     inkscape:cy="20.252839"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1416"
+     inkscape:document-rotation="0" />
   <path
-     d="M12 10V16M12 16L9 13M12 16L15 13M3 17V7C3 5.89543 3.89543 5 5 5H11L13 7H19C20.1046 7 21 7.89543 21 9V17C21 18.1046 20.1046 19 19 19H5C3.89543 19 3 18.1046 3 17Z"
+     d="m 11.898262,9.3416479 v 6.0000001 m 0,0 -2.9999997,-3 m 2.9999997,3 3,-3"
      stroke="#374151"
      stroke-width="2"
      stroke-linecap="round"
      stroke-linejoin="round"
-     id="path1414" />
+     id="path1414-2"
+     sodipodi:nodetypes="cccccc"
+     style="stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke:#0000c0;stroke-opacity:1" />
+  <path
+     d="M 3.5812785,16.858184 V 6.8581838 c 0,-1.10457 0.89543,-2 2,-2 h 5.9999995 l 2,2 h 6 c 1.1046,0 2,0.89543 2,2 v 8.0000002 c 0,1.1046 -0.8954,2 -2,2 H 5.5812785 c -1.10457,0 -2,-0.8954 -2,-2 z"
+     stroke="#374151"
+     stroke-width="2"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path1414-8"
+     sodipodi:nodetypes="sssccssssss"
+     style="stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke:#4a5568;stroke-opacity:1" />
 </svg>

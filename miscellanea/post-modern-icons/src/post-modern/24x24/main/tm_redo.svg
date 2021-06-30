@@ -17,7 +17,7 @@
    inkscape:export-filename="/Users/mgubi/t/devel/qt6/TeXmacs/misc/pixmaps/modern/24x24/main/tm_redo_x4.png"
    inkscape:export-xdpi="384"
    inkscape:export-ydpi="384"
-   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata10635">
     <rdf:RDF>
@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,22 +41,46 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="776"
-     inkscape:window-height="480"
+     inkscape:window-width="1600"
+     inkscape:window-height="836"
      id="namedview10631"
      showgrid="false"
-     inkscape:zoom="27.875"
-     inkscape:cx="12"
-     inkscape:cy="12"
+     inkscape:zoom="6.96875"
+     inkscape:cx="-6.6543807"
+     inkscape:cy="31.548324"
      inkscape:window-x="0"
-     inkscape:window-y="23"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg10629" />
-  <path
-     d="M13 9L16 12M16 12L13 15M16 12L8 12M21 12C21 16.9706 16.9706 21 12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3C16.9706 3 21 7.02944 21 12Z"
-     stroke="#4A5568"
-     stroke-width="2"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     id="path10627" />
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     inkscape:document-rotation="0" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Circle"
+     style="display:inline">
+    <path
+       d="m 21,11.999999 c 0,4.9706 -4.029399,9 -9,9 -4.97056,0 -9,-4.0294 -9,-9 0,-4.9705584 4.02944,-8.9999984 9,-8.9999984 4.970601,0 9,4.02944 9,8.9999984 z"
+       stroke="#4a5568"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path10627-0"
+       style="stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+       sodipodi:nodetypes="sssss" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Arrow"
+     style="display:inline">
+    <path
+       d="m 13,9 3,3 m 0,0 -3,3 m 3,-3 H 8.0000002"
+       stroke="#4a5568"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path10627-1"
+       style="stroke:#0000c0;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cccccc" />
+  </g>
 </svg>
